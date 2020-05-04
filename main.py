@@ -4,3 +4,7 @@ numero2 = int(23)
 print(numero1 + numero2)
 
 print(numero1 * numero2)
+
+print(numero1 / numero2)
+
+print(numero1 - numero2)
