@@ -13,3 +13,4 @@ numero3 = int(4)
 numero4 = int(7)
 
 print(numero3 * numero4)
+print(numero3 + numero4)
